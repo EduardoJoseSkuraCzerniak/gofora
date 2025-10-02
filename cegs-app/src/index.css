@@ -1,0 +1,18 @@
+/* --------------------------------------------------------------------------------------*/
+/* Arquivo: cegs-app/src/index.css                                                       */
+/* Descrição: Estilos globais da aplicação, incluindo o wallpaper de fundo               */
+/* Data: 28.09.2025                                                                      */      
+/* Última modificação: 28.09.2025                                                         */
+/* --------------------------------------------------------------------------------------*/
+
+@import "tailwindcss";
+
+body {
+    background-image: url('./src/assets/wallpaper.png'); /* Caminho para o wallpaper */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garantir que o fundo ocupe toda a tela */
+    margin: 0; /* Remover margens padrões do body */
+    font-family: Arial, sans-serif; /* Se desejar ajustar a fonte */
+}
