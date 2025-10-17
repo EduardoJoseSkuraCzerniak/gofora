@@ -1,6 +1,6 @@
 // --------------------------------------------------------------------------------------
-// Arquivo: cegs-app/src/main.jsx
-// Descrição: Ponto de entrada da aplicação React
+// Arquivo: gofora/cegs-app/src/main.jsx
+// Descrição: Ponto de Entrada da Aplicação React
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // --------------------------------------------------------------------------------------

@@ -1,6 +1,6 @@
 // --------------------------------------------------------------------------
-// Arquivo: cegs-app/src/components/CEGCard.jsx
-// Descrição: Componente de cartão para exibir informações do grupo de compra
+// Arquivo: gofora/cegs-app/src/components/CEGCard.jsx
+// Descrição: Componente de Cartão para Exibir Informações do Grupo de Compra
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // --------------------------------------------------------------------------

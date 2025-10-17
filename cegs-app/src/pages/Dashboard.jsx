@@ -1,6 +1,6 @@
 // ------------------------------------------------------------------
-// Arquivo: cegs-app/src/pages/Dashboard.jsx
-// Descrição: Página do dashboard que lista os grupos de compra
+// Arquivo: gofora/cegs-app/src/pages/Dashboard.jsx
+// Descrição: Página do Dashboard que Lista os Grupos de Compra
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------

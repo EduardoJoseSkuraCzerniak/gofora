@@ -1,0 +1,21 @@
+# -----------------------------------------------
+# Arquivo: gofora/backend/requirements.txt
+# Descrição: Dependências do projeto GoFora Backend
+# Data: 17.10.2025
+# Última Modificação: 17.10.2025
+# -----------------------------------------------
+
+# ✦ ⟶ Framework Principal da API
+fastapi
+
+# ✦ ⟶ Servidor ASGI para Rodar a Aplicação
+uvicorn
+
+# ✦ ⟶ Conector para PostgreSQL
+psycopg2-binary
+
+# ✦ ⟶ Carrega Variáveis do Arquivo gofora/.env
+python-dotenv
+
+# ✦ ⟶ Cliente Python para Supabase
+supabase

@@ -1,6 +1,6 @@
 // ------------------------------------------------------------------
-// Arquivo: cegs-app/src/supabase/client.js
-// Descrição: Configuração do cliente Supabase
+// Arquivo: gofora/cegs-app/src/supabase/client.js
+// Descrição: Configuração do Cliente Supabase
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------   

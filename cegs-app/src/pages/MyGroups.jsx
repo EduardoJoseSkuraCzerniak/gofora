@@ -1,6 +1,6 @@
 // ------------------------------------------------------------------
-// Arquivo: cegs-app/src/pages/MyGroups.jsx
-// Descrição: Página que exibe os grupos criados pelo usuário logado
+// Arquivo: gofora/cegs-app/src/pages/MyGroups.jsx
+// Descrição: Página que Exibe os Grupos Criados pelo Usuário Logado
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------

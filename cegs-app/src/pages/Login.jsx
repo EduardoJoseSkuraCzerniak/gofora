@@ -1,6 +1,6 @@
 // ------------------------------------------------------------------
-// Arquivo: cegs-app/src/pages/Login.jsx
-// Descrição: Página de login para autenticação de usuários
+// Arquivo: gofora/cegs-app/src/pages/Login.jsx
+// Descrição: Página de Login para Autenticação de Usuários
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------

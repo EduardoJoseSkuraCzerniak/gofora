@@ -1,6 +1,6 @@
 // ----------------------------------------------
-// Arquivo: cegs-app/eslint.config.js
-// Descrição: Configuração do ESLint para o projeto
+// Arquivo: gofora/cegs-app/eslint.config.js
+// Descrição: Configuração do ESLint para o Projeto
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ----------------------------------------------

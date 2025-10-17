@@ -1,11 +1,17 @@
 // ------------------------------------------------------------------   
-// Arquivo: cegs-app/src/pages/Participants.jsx
-// Descrição: Página para gerenciar participantes de um grupo de compra
+// Arquivo: gofora/cegs-app/src/pages/Participants.jsx
+// Descrição: Página para Gerenciar Participantes de um Grupo de Compra (CEG)
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------
 
+// ➤ Importações de Hooks
+// ✦ useEffect ⟶
+// ✦ useState  ⟶ Estado Local do Componente
+// ✦ react     ⟶ 
 import { useEffect, useState } from 'react';
+// ✦ useParams        ⟶ 
+// ✦ react-router-dom ⟶
 import { useParams } from 'react-router-dom';
 import { createClient } from '@supabase/supabase-js';
 

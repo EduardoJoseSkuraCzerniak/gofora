@@ -1,6 +1,6 @@
 // ------------------------------------------------------------------
-// Arquivo: cegs-app/src/pages/GroupDetails.jsx
-// Descrição: Página de detalhes do grupo de compra
+// Arquivo: gofora/cegs-app/src/pages/GroupDetails.jsx
+// Descrição: Página de Detalhes do Grupo de Compra
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------  

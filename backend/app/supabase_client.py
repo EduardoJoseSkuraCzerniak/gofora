@@ -1,6 +1,6 @@
 # -------------------------------------------------------------------
-# Arquivo: backend/app/supabase_client.py
-# Descrição: Configura o cliente Supabase
+# Arquivo: gofora/backend/app/supabase_client.py
+# Descrição: Configura o Cliente Supabase
 # Data: 28.09.2025 
 # Última modificação: 28.09.2025 
 # -------------------------------------------------------------------

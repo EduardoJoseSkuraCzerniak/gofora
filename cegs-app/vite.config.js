@@ -1,6 +1,6 @@
 // ------------------------------------------------------------------
-// Arquivo: cegs-app/vite.config.js
-// Descrição: Configuração do Vite para o projeto
+// Arquivo: gofora/cegs-app/vite.config.js
+// Descrição: Configuração do Vite para o Projeto
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------

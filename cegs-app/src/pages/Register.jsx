@@ -1,13 +1,22 @@
 // ------------------------------------------------------------------
-// Arquivo: cegs-app/src/pages/Register.jsx
+// Arquivo: gofora/cegs-app/src/pages/Register.jsx
 // Descrição: Página de registro de novos usuários
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------   
 
+// ➤ Importações de Hooks
+// ✦ useState ⟶ Estado Local do Componente
+// ✦ react    ⟶ 
 import { useState } from 'react';
-import axios from 'axios';
+// ✦ useNavigate      ⟶ Navegação Programática entre Rotas
+// ✦ react-router-dom ⟶ 
 import { useNavigate } from 'react-router-dom';
+
+// ➤ Importação de Biblioteca
+// ✦ axios ⟶ Requisições HTTP 
+import axios from 'axios';
+
 
 export default function Register() {
     const [form, setForm] = useState({ email: '', senha: '', nome: '', role: 'participante' });

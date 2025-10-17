@@ -1,6 +1,6 @@
 // ------------------------------------------------------------------
-// Arquivo: cegs-app/tailwind.config.js
-// Descrição: Configuração do Tailwind CSS para o projeto
+// Arquivo: gofora/cegs-app/tailwind.config.js
+// Descrição: Configuração do Tailwind CSS para o Projeto
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------

@@ -1,6 +1,6 @@
 # -------------------------------------------------------------------
-# Arquivo: backend/app/crud.py
-# Descrição: Implementa operações CRUD para usuários e eventos
+# Arquivo: gofora/backend/app/database.py
+# Descrição: Base de Dados
 # Data: 28.09.2025 
 # Última modificação: 28.09.2025 
 # -------------------------------------------------------------------

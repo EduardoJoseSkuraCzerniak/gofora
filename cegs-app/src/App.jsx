@@ -1,10 +1,9 @@
 // --------------------------------------------------------------------------------------
-// Arquivo: cegs-app/src/App.jsx
-// Descrição: Componente principal da aplicação React com rotas configuradas
+// Arquivo: gofora/cegs-app/src/App.jsx
+// Descrição: Componente Principal da Aplicação React com Rotas Configuradas
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // --------------------------------------------------------------------------------------
-
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import Dashboard from "./pages/Dashboard"

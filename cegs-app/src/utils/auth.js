@@ -1,6 +1,6 @@
 // ------------------------------------------------------------------------------------------
-// Arquivo: cegs-app/src/utils/auth.js
-// Descrição: Funções utilitárias para autenticação e gerenciamento de usuários
+// Arquivo: gofora/cegs-app/src/utils/auth.js
+// Descrição: Funções Utilitárias para Autenticação e Gerenciamento de Usuários
 // Data: 28.09.2025 
 // Última modificação: 28.09.2025 
 // ------------------------------------------------------------------------------------------
