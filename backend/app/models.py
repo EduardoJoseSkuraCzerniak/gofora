@@ -3,6 +3,7 @@
 # Descrição: Define Modelos de Dados para a Aplicação
 # Data: 28.09.2025 
 # Última modificação: 28.09.2025 
+# STATUS: INATIVO VAZIO
 # ------------------------------------------------------------------
 
 # ✦ fastapi         ⟶ Framework para Criação de APIs Web Rápidas e Modernas

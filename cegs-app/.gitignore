@@ -1,10 +1,10 @@
 # ------------------------------------------------------------------
 # Arquivo: gofora/cegs-app/.gitignore
-# Descrição: 
+# Descrição: Arquivos/Pastas Ignoradas pelo Git
 # Data: 28.09.2025 
 # ------------------------------------------------------------------
 
-# Logs
+# Logs Temporários
 logs
 *.log
 npm-debug.log*
@@ -18,7 +18,7 @@ dist
 dist-ssr
 *.local
 
-# Editor directories and files
+# Pastas (Gerados por Editores de Código)
 .vscode/*
 !.vscode/extensions.json
 .idea
